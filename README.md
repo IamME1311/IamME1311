@@ -68,10 +68,14 @@ I build **autonomous AI systems** using LLMs, FastAPI, and cloud infrastructure.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamME1311&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamME1311&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamME1311&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamME1311&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamME1311&theme=default" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IamME1311&theme=default" alt="Most Used Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=IamME1311&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
